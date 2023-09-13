@@ -167,4 +167,17 @@ body{
             color: var(--laranja);
             font-weight: 700;
             text-align: center;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         }
+        .descricao-texto{
+            text-align: center;
+
+        }
+     .descriçao-titulo.livro{
+      text-align: center;
+     }
+     .botoes-item{ 
+     padding:0,5em 0.5em
+     }
+    
+     
